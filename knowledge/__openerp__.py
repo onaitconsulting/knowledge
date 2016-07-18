@@ -26,6 +26,7 @@
     "category": "Hidden/Dependency",
     "license": "AGPL-3",
     "website": "https://www.odoo.com",
+    'depends': ['document'],
     "data": [
         "security/knowledge_security.xml",
         "security/ir.model.access.csv",
